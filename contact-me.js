@@ -99,7 +99,7 @@ $(document).ready( function () {
         // bundle the elements for style
         $label.append($input);
         ($('.form-group-contact-reason')).append($label);
-        return;
+        return; //
     }
 
     const checkMessage = function($jQueryItem) {
