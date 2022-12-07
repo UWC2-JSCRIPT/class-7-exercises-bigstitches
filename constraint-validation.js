@@ -1,4 +1,4 @@
-// TODO
+// 
 /*
 1. On "submit" action, check the following:
 - First Name and Last Name should be 3 characters or more
